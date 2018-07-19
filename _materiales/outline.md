@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: e57 outline
+title: Outline
 
 ---
 
@@ -167,7 +167,3 @@ Diversas notas al pie del texto recogen las impresiones de los realizadores año
 ### Discografía
 
 ### Escenas eliminadas
-
----
-
-[cc by 4.0](http://creativecommons.org/licenses/by-sa/4.0/)

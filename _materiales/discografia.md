@@ -2,10 +2,13 @@
 
 layout: default
 title: Discografía de Pakistán Records
+author: Jorge Rangel
 
 ---
 
 # {{ page.title }}
+
+por {{ page.author }}
 
 ---
 
@@ -21,7 +24,7 @@ title: Discografía de Pakistán Records
 - Lodi López: bajo y voz
 - Rob González: batería
 
-**Producción**
+#### Producción
 
 - Las Bulbas: producción
 - Freddy: grabación y mezcla
@@ -57,7 +60,7 @@ Este caset estuvo perdido durante mucho tiempo, lo cual le otorgó un estatus de
 - Rob González: bajo, batería, percusiones y cajas de ritmos
 - Fran Baxter: Moog y percusiones
 
-**Producción**
+#### Producción
 
 - Larissa Double-Coil: producción
 - Don Tito: grabación
@@ -80,11 +83,13 @@ El primer disco que se grabó en los estudios de Pakistán Records. Originalment
 
 ## Cáspita y Los Atónitos – Kinki Näive
 
+### Créditos
+
 - Alejandra Casandra: voz, teclados y guitarra
 - Santiago Matías: teclados
 - Fran Baxter: Moog y caja de ritmos
 
-**Músicos Adicionales**
+#### Músicos invitados
 
 - Pancho Taylor: guitarra
 - Mubarak Saavedra: voz
@@ -93,7 +98,7 @@ El primer disco que se grabó en los estudios de Pakistán Records. Originalment
 - Rob González: batería
 - Moncho Zen Ando: teclados, sinte modular y caja de ritmos
 
-**Producción**
+#### Producción
 
 - Larissa Double-Coil y Alejandra Casandra: producción y mezcla
 - Fran Baxter: producción
@@ -127,12 +132,12 @@ La producción de este álbum fue muy accidentada: empezó como un dueto bohemio
 - Primero Vallezar: acordeón y primera voz
 - Segundo Vallezar: bajosexto y segunda voz
 
-**Músicos adicionales**
+#### Músicos invitados
 
 - Fran Baxter: bajo
 - Mubaraj Saavedra: percusiones
 
-**Producción**
+#### Producción
 
 - Fran Baxter: producción
 - Don Tito: grabación y mezcla
@@ -168,7 +173,7 @@ Aunque nunca se publicó un segundo disco del Dueto Vallezar, un par de cancione
 - Lodi López: bajo
 - Rob González: batería
 
-**Músicos adicionales**
+#### Músicos invitados
 
 - Alejandra Casandra: teclados y theremin
 - Pancho Taylor: guitarra
@@ -177,7 +182,7 @@ Aunque nunca se publicó un segundo disco del Dueto Vallezar, un par de cancione
 - Fran Baxter: teclados e Impulse Tracker
 - Eligio Leija: voz y textos
 
-**Producción**
+#### Producción
 
 - El Señor Gobernador: producción y mezcla
 - Larissa Double-Coil: producción
@@ -203,7 +208,7 @@ Este álbum se trata de un collage sonoro donde se intercalan composiciones, imp
 - Fran Baxter: guitarra, bajo y teclados
 - Rob González: percusiones
 
-**Producción**
+#### Producción
 
 - Baxter & Lafragua: producción y mezcla
 - Don Tito: grabación y mezcla
@@ -234,7 +239,7 @@ Grabado durante un fin de semana. Originalmente se planeó grabar un LP hasta qu
 - Lodi López: bajo y voz
 - Rob González: batería
 
-**Producción**
+#### Producción
 
 - Lodi López y Rob González: producción, grabación y mezcla
 
@@ -258,13 +263,13 @@ Al igual que el EP de Sandro de Amecameca, originalmente se tenía pensado que *
 - Larissa Double-Coil: voz, guitarra, teclados, sinte modular, secuenciador y caja de ritmos
 - Moncho Zen Ando: bajo, teclados, ondes martenot
 
-**Músicos adicionales**
+#### Músicos invitados
 
 - Pancho Taylor: guitarra MIDI
 - DJ Paldapa: tornamesas
 - Rob González: batería
 
-**Producción**
+#### Producción
 
 - Los Turistas de Calcetín Blanco: producción y mezcla
 - Don Tito: grabación y mezcla
@@ -278,12 +283,12 @@ Al igual que el EP de Sandro de Amecameca, originalmente se tenía pensado que *
 
 - DJ Paldapa: tornamesas, teclados, secuenciadores y cajas de ritmo
 
-**Músicos adicionales**
+#### Músicos invitados
 
 - Lodi López: bajo
 - Rob González: batería
 
-**Producción**
+#### Producción
 
 - DJ Paldapa: producción, grabación y mezcla
 - El Vikingo: grabación y mezcla
@@ -313,7 +318,7 @@ Al igual que el EP de Sandro de Amecameca, originalmente se tenía pensado que *
 - Lodi López: voz, bajo y teclados
 - Rob González: batería y percusiones
 
-**Producción**
+#### Producción
 
 - Los Nebulosos Darwins: producción, grabación y mezcla
 
@@ -349,7 +354,7 @@ Este álbum fue grabado en La Zona del Silencio, no en Estación Marte como much
 - Rob González: batería
 - Fran Baxter: sirena dub y percusiones
 
-**Producción**
+#### Producción
 
 - El Conjunto Tropidélico: producción, grabación y mezcla
 - Don Tito: grabación y mezcla
@@ -368,7 +373,7 @@ Este álbum es una colección de temas clásicos de la cumbia norestense. Fue gr
 - Larissa Double-Coil: voz, guitarra, teclados, bajo, sinte modular, secuenciadores, theremin y caja de ritmos.
 - Moncho Zen Ando: guitarra, bajo, sinte modular, ondes martenot y caja de ritmos
 
-**Músicos adicionales**
+#### Músicos invitados
 
 - Pancho Taylor: guitarra
 - Mubarak Saavedra: guitarra, teclados y batería
@@ -376,7 +381,7 @@ Este álbum es una colección de temas clásicos de la cumbia norestense. Fue gr
 - Rob González: batería y percusiones
 - Fran Baxter: Moog
 
-**Producción**
+#### Producción
 
 - Los Turistas de Calcetín Blanco: producción y mezcla
 - Don Tito: grabación
@@ -396,7 +401,7 @@ Este álbum es una colección de temas clásicos de la cumbia norestense. Fue gr
 - Larissa Double-Coil: guitarra, secuenciadores e Impulse Tracker
 - Mubarak Saavedra: teclados, cajas de ritmo y percusiones
 
-**Producción**
+#### Producción
 
 - Lodi López: producción
 - Larissa Double Coil: grabación y mezcla
@@ -421,12 +426,12 @@ Un proyecto de electropop cuya existencia se vio truncada por la desaparición d
 - Larissa Double Coil: voz, guitarra, teclados y caja de ritmos
 - Moncho Zen Ando: guitarra, bajo y teclados
 
-**Músicos adicionales**
+#### Músicos invitados
 
 - Pancho Taylor: guitarra
 - Rob González: batería
 
-**Producción**
+#### Producción
 
 - Los Turistas de Calcetín Blanco: producción, grabación y mezcla
 
@@ -464,7 +469,7 @@ Este se trata del último disco de la primera (única, para los puristas) época
 - Lodi López: bajo
 - Rob González: batería
 
-**Producción**
+#### Producción
 
 - Larissa Double-Coil: producción, grabación y mezcla
 - Lodi López: grabación y mezcla
@@ -486,7 +491,3 @@ El primer disco de la segunda época de Pakistán Records, sin Fran Baxter, sin 
 Fue grabado en varios estudios caseros de Monclova, San Buenaventura y Cuatro Ciénegas durante los años en que Larissa se recuperó del accidente de Los Turistas.  
 Al acabar este disco, Larissa se dedicó exclusivamente a producir otras bandas, componer para ensambles contemporáneos y practicar live-coding.  
 Este álbum está dedicado a la memoria de Moncho Zen Ando. La portada es una foto de Larissa tocando una guitarra con el mástil roto: la guitarra que llevaba Moncho Zen Ando en la Turisván el día del accidente.
-
----
-
-[cc by 4.0](http://creativecommons.org/licenses/by-sa/4.0/)

@@ -1,6 +1,8 @@
 ---
 
 layout: default
-title: Furry Jam
+title: (Furry) Jam de medianoche
 
 ---
+
+# {{ page.title }}

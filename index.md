@@ -1,11 +1,16 @@
 ---
 
 layout: default
-title: e57
+title: Express 57
+author: Jorge Rangel
 
 ---
 
-# e57
+# {{ site.title }}
+
+*{{ site.description }}*
+
+por: {{ page.author }} / @jarxg
 
 ---
 
@@ -17,10 +22,19 @@ title: e57
 
 ## Materiales
 
-[Outline](outline)
-
-[Discografía](discografia)
+{% for item in site.materiales %}<a href="{{ item.url }}">{{ item.title }}</a><br>{% endfor %}
 
 ---
 
-[cc by 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+## Pendientes
+
+- Escribir
+	- Cuentos
+	- Discografía pendiente
+	- Hojas de personajes
+	- Acerca de...
+
+- Transcribir
+	- Cuentos terminados
+	- Discografía terminada
+	- Proyecto original

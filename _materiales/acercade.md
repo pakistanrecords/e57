@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Outro
+title: Acerca de...
 
 ---
 
