@@ -1,12 +1,21 @@
-# Discografía de Pakistán Records
+---
+
+layout: default
+title: Discografía de Pakistán Records
+
+---
+
+# {{ page.title }}
+
+---
 
 # 1994
 
-## Las Bulbas – Las Bulbas EP (1994)
+---
+
+## Las Bulbas – Las Bulbas EP (1994)
 
 ### Créditos
-
-**Las Bulbas**
 
 - Cherry Bomb: guitarra y voz
 - Lodi López: bajo y voz
@@ -31,13 +40,15 @@ No se trata realmente de un álbum de Pakistán Records: la disquera aún no exi
 Grabado en Sabinas, Coahuila, durante una tromba que obligó a varias bandas a cancelar una tocada. Para guarecerse del mal tiempo, se refugiaron en casa de uno de los organizadores, donde se encontraba el mismo estudio donde ensayaba la Rebelión de Teo Sánchez. La energía eléctrica se iba intermitentemente durante la madrugada, pero en los momentos en que sí había luz algunas de las bandas grabaron varias canciones en una Tascam portátil. Sólo se grabó una toma de cada canción. Mientras tanto compartían comida, bebida, drogas y experiencias.  
 Este caset estuvo perdido durante mucho tiempo, lo cual le otorgó un estatus de leyenda que no tuvieron otros casets que salieron de esta misma sesión: los demos de Un Kilo de Maciza y DJ Paldapa.
 
+---
+
 # 1995
 
-## Los Nebulosos Darwins – Malakatonche's World Parade
+---
+
+## Los Nebulosos Darwins – Malakatonche's World Parade
 
 ### Créditos
-
-**Los Nebulosos Darwins**
 
 - Mubarak Saavedra: voz, teclados, cadena y guitarra
 - Pancho Taylor: voz, guitarra y bajo
@@ -52,7 +63,7 @@ Este caset estuvo perdido durante mucho tiempo, lo cual le otorgó un estatus de
 - Don Tito: grabación
 - El Vikingo: grabación y mezcla
 
-### Tracklist
+### Tracklist
 
 1. Acid Test (8:13)
 2. Cumbayá (3:05)
@@ -61,13 +72,13 @@ Este caset estuvo perdido durante mucho tiempo, lo cual le otorgó un estatus de
 5. Martha's My Dear (2:21)
 6. Malakatonche's World Parede (16:11)
 
-### Notas
+### Notas
 
 El primer disco que se grabó en los estudios de Pakistán Records. Originalmente iba a ser producido por Fran Baxter, quien tras una serie de desacuerdos con el grupo decidió concentrarse en la producción de *Kinki Näive*. La producción del disco pasó a ser de Larissa Double-Coil
 
-## Cáspita y Los Atónitos – Kinki Näive
+---
 
-**Créditos**
+## Cáspita y Los Atónitos – Kinki Näive
 
 - Alejandra Casandra: voz, teclados y guitarra
 - Santiago Matías: teclados
@@ -89,7 +100,7 @@ El primer disco que se grabó en los estudios de Pakistán Records. Originalment
 - Don Tito: grabación
 - El Vikingo: grabación
 
-### Tracklist
+### Tracklist
 
 1. Prólogo (Cactus Disco I)
 2. Oh, sí
@@ -103,15 +114,15 @@ El primer disco que se grabó en los estudios de Pakistán Records. Originalment
 10. Yo así no yo soy
 11. Epílogo (Cactus Disco III)
 
-### Notas
+### Notas
 
 La producción de este álbum fue muy accidentada: empezó como un dueto bohemio conformado por Alejandra Casandra y Fran Baxter desde antes que se fundara la disquera. Eventualmente se convirtió en un proyecto de dream pop bastante complejo que involucró en un momento u otro a casi todo el rúster de Pakistán Records. Kinki Näive fue uno de los discos más exitosos de Pakistán Records. Desafortunadamente fue el único disco de Cáspita y Los Atónitos, algo que probablemente tenga algo que ver con lo tormentosa que fue la relación personal y profesional de Alejandra Casandra y Fran Baxter.
+
+---
 
 ## El Dueto Vallezar – Valle Zar
 
 ### Créditos
-
-**El Dueto Vallezar*
 
 - Primero Vallezar: acordeón y primera voz
 - Segundo Vallezar: bajosexto y segunda voz
@@ -147,11 +158,11 @@ Fran Baxter descubrió al Dueto Vallezar mientras tocaban transporte público de
 El Dueto Vallezar colaboró con algunos otros proyectos de Pakistán Records.  
 Aunque nunca se publicó un segundo disco del Dueto Vallezar, un par de canciones pertenecientes a las sesiones para un segundo álbum inédito se encuentran rondando en blogs de internet desde principios de los 00s.
 
+---
+
 ## El Señor Gobernador – Transmitido en Sueños
 
 ### Créditos
-
-**El Señor Gobernador**
 
 - El Señor Gobernador: guitarra, Moog, teclados y percusiones
 - Lodi López: bajo
@@ -173,20 +184,20 @@ Aunque nunca se publicó un segundo disco del Dueto Vallezar, un par de cancione
 - Don Tito: grabación
 - Fran Baxter: mezcla
 
-### Tracklist
+### Tracklist
 
 1. Transmitido en Sueños: lado A (21:11)
 2. Transmitido en Sueños: lado B (19:36)
 
-### Notas
+### Notas
 
 Este álbum se trata de un collage sonoro donde se intercalan composiciones, improvisaciones, lecturas de textos, sonidos encontrados y grabaciones de campo. Semeja un programa de radio psicodélico, lo que ha generado el rumor de que El Señor Gobernador es en realidad Hermes, el locutor.
 
+---
+
 ## Sandro de Amecameca – Típico Gótico EP
 
-### Créditos
-
-**Sandro de Amecameca**
+### Créditos
 
 - Sandro de Amecameca: voz
 - Fran Baxter: guitarra, bajo y teclados
@@ -209,13 +220,15 @@ Este álbum se trata de un collage sonoro donde se intercalan composiciones, imp
 
 Grabado durante un fin de semana. Originalmente se planeó grabar un LP hasta que las diferencias artísticas y personales entre Sandro de Amecameca y el resto de la humanidad hicieron imposible seguir con las sesiones de grabación.
 
+---
+
 # 1996
+
+---
 
 ## Un Kilo de Maciza – Tenebrosa inflación
 
 ### Créditos
-
-**Un Kilo de Maciza**
 
 - Cerebro Fuentes: guitarra y voz
 - Lodi López: bajo y voz
@@ -236,11 +249,11 @@ Grabado durante un fin de semana. Originalmente se planeó grabar un LP hasta qu
 
 Al igual que el EP de Sandro de Amecameca, originalmente se tenía pensado que *Tenebrosa inflación* fuera un LP. Estos planes se vinieron abajo cuando un buen día Cerebro Fuentes no llegó al estudio y nadie volvió a saber de él. Cerebro Fuentes sólo había grabado las voces en unos demos impresentables que había grabado en su casa con una casetera junto con Rob González. Lodi y Rob terminaron el álbum por su cuenta en el estudio de Pakistán Records.
 
+---
+
 ## Los Turistas de Calcetín Blanco – Los Turistas LP
 
 ### Créditos
-
-**Los Turistas de Calcetín Blanco**
 
 - Larissa Double-Coil: voz, guitarra, teclados, sinte modular, secuenciador y caja de ritmos
 - Moncho Zen Ando: bajo, teclados, ondes martenot
@@ -257,11 +270,11 @@ Al igual que el EP de Sandro de Amecameca, originalmente se tenía pensado que *
 - Don Tito: grabación y mezcla
 - El Vikingo: grabación
 
+---
+
 ## DJ Paldapa – A Serial Killer of Cows
 
 ### Créditos
-
-**DJ Paldapa**
 
 - DJ Paldapa: tornamesas, teclados, secuenciadores y cajas de ritmo
 
@@ -284,13 +297,15 @@ Al igual que el EP de Sandro de Amecameca, originalmente se tenía pensado que *
 5. Kakanapo
 6. Express 57
 
+---
+
 # 1997
 
-## Los Nebulosos Darwins – Mars Station
+---
+
+## Los Nebulosos Darwins – Mars Station
 
 ### Créditos
-
-**Los Nebulosos Darwins**
 
 - Mubarak Saavedra: voz, guitarra y batería
 - Pancho Taylor: voz, guitarra y teclados
@@ -314,9 +329,13 @@ Al igual que el EP de Sandro de Amecameca, originalmente se tenía pensado que *
 
 Este álbum fue grabado en La Zona del Silencio, no en Estación Marte como muchos creen.
 
+---
+
 # 1998
 
-## DJ Paldapa y su Conjunto Tropidélico
+---
+
+## DJ Paldapa y su Conjunto Tropidélico – Tropidelia Fantástica: The Amazing Sounds of Mexican Northern Cumbia
 
 ### Créditos
 
@@ -340,6 +359,8 @@ Este álbum fue grabado en La Zona del Silencio, no en Estación Marte como much
 
 Este álbum es una colección de temas clásicos de la cumbia norestense. Fue grabado durante las sesiones de *Los Turistas EP* y *A Serial Killer of Cows*.
 
+---
+
 ## Los Turistas de Calcetín Blanco – Double Zen
 
 ### Créditos
@@ -361,11 +382,15 @@ Este álbum es una colección de temas clásicos de la cumbia norestense. Fue gr
 - Don Tito: grabación
 - El Vikingo: grabación y mezcla
 
+---
+
 # 1999
 
-## Sintetizador Lolipop – Sintetizador Lolipop
+---
 
-### Créditos
+## Sintetizador Lolipop – Sintetizador Lolipop
+
+### Créditos
 
 - Lodi López: voz y bajo
 - Larissa Double-Coil: guitarra, secuenciadores e Impulse Tracker
@@ -378,12 +403,16 @@ Este álbum es una colección de temas clásicos de la cumbia norestense. Fue gr
 - Don Tito: grabación
 - El Vikingo: grabación
 
-### Notas
+### Notas
 
 Un proyecto de electropop cuya existencia se vio truncada por la desaparición de Pakistán Records y el accidente (el 11 de septiembre de 2001) de Los Turistas que dejó a Larissa en coma durante unos meses. Sin embargo, tuvieron tiempo de hacer una pequeña gira a mediados de 2000.  
 *Sintetizador Lolipop* es considerado uno de los mejores discos de Pakistán Records.
 
+---
+
 # 2001
+
+---
 
 ## Los Turistas de Calcetín Blanco – Los Puristas de Calcetín Blanco
 
@@ -419,11 +448,15 @@ Una auténtica rareza. Este álbum fue publicado poco antes del accidente que le
 Este se trata del último disco de la primera (única, para los puristas) época de Pakistán Records. Sólo se maquilaron cien copias, numeradas y autografiadas. En una entrevista Fran Baxter dijo que se trataba de su álbum favorito de Pakistán Records.  
 *Los Puristas de Calcetín Blanco* busca capturar el sonido más crudo de Los Turistas antes de unirse a Pakistán Records. Tras despertar de su coma, Larissa escribió en su blog que los álbumes anteriores de su banda padecían de "un exceso de producción" y que este le parecía el verdadero sonido de Los Turistas. Escribió también que le llenaba de orgullo que su último trabajo con su amigo de toda la vida, Moncho, hubiera sido algo tan personal y cercano a sus raíces.
 
-# 2006
+---
 
-## Larissa Double-Coil – Hi!
+# 2006
 
-### Créditos
+---
+
+## Larissa Double-Coil – Hi!
+
+### Créditos
 
 - Larissa Double-Coil: voz, guitarra, bajo, teclado, theremin, percusiones, caja de ritmos y Ableton Live.
 - Mubarak Saavedra: voz, guitarra y percusiones
@@ -453,3 +486,7 @@ El primer disco de la segunda época de Pakistán Records, sin Fran Baxter, sin 
 Fue grabado en varios estudios caseros de Monclova, San Buenaventura y Cuatro Ciénegas durante los años en que Larissa se recuperó del accidente de Los Turistas.  
 Al acabar este disco, Larissa se dedicó exclusivamente a producir otras bandas, componer para ensambles contemporáneos y practicar live-coding.  
 Este álbum está dedicado a la memoria de Moncho Zen Ando. La portada es una foto de Larissa tocando una guitarra con el mástil roto: la guitarra que llevaba Moncho Zen Ando en la Turisván el día del accidente.
+
+---
+
+[cc by 4.0](http://creativecommons.org/licenses/by-sa/4.0/)

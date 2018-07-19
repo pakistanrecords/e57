@@ -1,0 +1,14 @@
+title: e57
+email: jarg1985@gmail.com
+description: un libro de cuentos open source
+twitter_username: jarxg
+github_username:  jarxg
+
+markdown: kramdown
+
+plugins:
+- jekyll-mentions
+
+collections:
+  cuentos:
+    output: true
