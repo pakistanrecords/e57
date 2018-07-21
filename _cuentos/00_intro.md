@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: (Intro) Ni comiéndome a besos mil amantes
+title: Ni comiéndome a besos mil amantes (Intro)
 
 ---
 
