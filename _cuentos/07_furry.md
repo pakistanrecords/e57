@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: (Furry) Jam de medianoche
+title: (Furry) Jams
 
 ---
 

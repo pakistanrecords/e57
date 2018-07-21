@@ -1,7 +1,7 @@
 ---
 
 layout: default
-title: Sandro's Shades
+title: Las sombras de Sandro
 
 ---
 
