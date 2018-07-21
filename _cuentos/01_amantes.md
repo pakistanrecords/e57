@@ -12,13 +12,9 @@ synopsis: Fran Baxter bebe una cerveza en una cantina de la zona de tolerancia d
 
 # {{ page.title }}
 
-Fran Baxter estaba sentado en un rincón de su cantina en la zona de tolerancia de Sabinas. Estaba casi sola: era martes, cinco de la mañana. En la cantina sólo estaban él, Maricela la mesera, Luis el cantinero, Pequitas la puta y Goyito el puto: lo más parecido a una familia que le quedaba a Fran Baxter el patrón.  
+Fran Baxter estaba sentado en un rincón de su cantina en la zona de tolerancia de Sabinas. Estaba casi sola: era martes, cinco de la mañana. En la cantina sólo estaban él, Maricela la mesera, Luis el cantinero, Pequitas la puta y Goyito el puto: lo más parecido a una familia que le quedaba a Fran Baxter el patrón, Fran Baxter el artista sonoro menos rentable del ejido, Fran Baxter nobody-not-anymore, Fran Baxter el productor fracasado.  
 —Ya van a cerrar, güey —le dijo una voz vagamente conocida. Levantó la mirada y se encontró con un rostro muy familiar: el suyo. Hacía años que Fran Baxter no se encontraba con Otro Fran Baxter y la neta es que no lo extrañaba ni madres.  
-—Aquí cierran cuando yo digo —contestó Fran Baxter. Otro Fran Baxter se le quedó mirando. "¿Me vas a invitar a tomar una chela contigo o nel?", parecía preguntar. Fran Baxter lo miró sin molestarse en mover más que la mirada. Le dio un trago a la botella de Carta Blanca y le hizo una señal con los ojos a Otro Fran Baxter de que se sentara. En la rocola sonaba la voz, inconfundible, de Cesáreo Sánchez:
-
-> Tomando y amando me paso las noches  
-> y me gana el llanto al amanecer...
-  
+—Aquí cierran cuando yo digo —contestó Fran Baxter. Otro Fran Baxter se le quedó mirando. "¿Me vas a invitar a tomar una chela contigo o nel?", parecía preguntar. Fran Baxter lo miró sin molestarse en mover más que la mirada. Le dio un trago a la botella de Carta Blanca y le hizo una señal con los ojos a Otro Fran Baxter de que se sentara.  
 —Gracias —dijo Otro Fran Baxter quitándose el sombrero y poniéndolo sobre la mesa; se sentó y muy sonriente miró a su alrededor—. Todo un empresario. Quién te viera.  
 —No sé si tener un congal en el zumbido de Sabinas cuente como ser empresario.  
 —Claro que sí cuenta —contestó Otro Fran Baxter haciéndole una seña a la mesera que estaba medio en la pendeja viendo un infomercial sin volumen en la tele—. Ese es tu problema, no piensas como persona normal, piensas como egresado de universidad extranjera.  
@@ -41,9 +37,24 @@ Maricela regresó con una carta para Fran Baxter y una botella de sotol y un cab
 Otro Fran Baxter levantó el caballito y lo miró a contraluz ante un foco amarillento sobre la pared. Lo olió, aspirando profundamente, de una forma casi obscena. Finalmente le dio un pequeño trago que saboreó durante unos segundos que a Fran Baxter, el "original", le parecieron insoportables.  
 —Está pocamadre el sotol.  
 —¿A qué viniste, cabrón? —contestó Fran Baxter—. Ya no le des tantas pinches vueltas.  
-Otro Fran Baxter lo miró mientras saboreaba otro traguito del sotol.
+Otro Fran Baxter lo miró mientras saboreaba otro traguito del sotol. En la rocola sonaba la voz, inconfundible, de don Cesáreo Sánchez cantando a don Humberto Galindo.
 
 > ...ni comiéndome a besos mil amantes  
 > ni tomándome toda mi cantina.
   
-—Carnal —dijo finalmente Otro Fran Baxter—: necesitas quemar la casa.
+—Carnal —dijo finalmente Otro Fran Baxter—: necesitas quemar la casa.  
+Fran Baxter tenía años sin poner un pie en la antigua casona / estudio / centro de operaciones de Pakistán Records. Tenía años sin ir a Progreso, en donde estaba el ejido donde por alguna inescrutable razón se había construido esa casona estilo inglés a principios del siglo XX.  
+Durante años se creyó que el ejido Pakistán y esta casona se encontraban en el municipio de General Cepeda. Este rumor tiene su origen en algo que el mismo Fran Baxter escribió en uno de sus diarios, una selección de los cuales fueron publicados en formato electrónico a mediados de 2011 por un grupo de escritores saltillenses. No está claro por qué Fran Baxter haría este cambio radical en la ubicación del ejido Pakistán. La respuesta más sencilla es, muy probablemente, la correcta: Fran Baxter no quería que nadie supiera dónde estaban exactamente la vieja casona inglesa ni el ejido que le dió nombre a una de las disqueras más icónicas del desierto coahuilense.  
+—¿Y eso? —preguntó Fran Baxter. No había tomado de su cerveza, que descansaba sudorosa en una servilleta sobre la mesa.  
+—La verdad —dijo Otro Fran Baxter sin apartar la vista de su sotol—, estas alturas siento que es la única forma de que se te olvide todo lo que pasó. ¿No tienes jicaritas?  
+—¿Olvidar todo lo que pasó? —contestó Fran Baxter sin hacer caso a la pregunta de Otro Fran Baxter—. ¿Olvidar qué?  
+—Que fracasaste, pendejo. Que tus sueños de ser un productor valieron verga porque eres incapaz de trabajar con otras personas. Que te quedaste solo porque eres incapaz de ser amigo. ¿Querías que te lo dijera? Pues ahí está.  
+Fran Baxter le dio un trago a su cerveza.  
+—Eso suena a pinche psicomagia —dijo Fran Baxter—, no mames. Además esa casa ni es mía. Es de Mubarak.  
+—¿Y dónde está Mubarak?  
+—Nadie sabe.  
+—Exacto —contestó Otro Fran Baxter golpeando la mesa—. Tons qué: ¿ya o ahorita?
+
+***
+
+Otro Fran Baxter traía mueble: una Ford F-100 del cincuenta y córrele, blanca, cuidadísima. "Muy bonita", pensó Fran Baxter, "pero qué hueva la dirección mecánica".  

@@ -7,5 +7,5 @@ baseurl: /e57
 collections:
   cuentos:
     output: true
-  materiales:
+  extras:
     output: true

@@ -21,22 +21,6 @@ por: {{ page.author }}
 
 ---
 
-## Materiales
+## Extras
 
-{% for item in site.materiales %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a><br>{% endfor %}
-
----
-
-## Pendientes
-
-- ¿Juntar los dos cuentos sobre la inundación?
-- Escribir
-	- Cuentos
-	- Discografía pendiente
-	- Hojas de personajes
-	- Acerca de...
-- Transcribir
-	- Cuentos terminados
-	- Discografía terminada
-	- Proyecto original
-	- Escenas eliminadas
+{% for item in site.extras %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a><br>{% endfor %}
