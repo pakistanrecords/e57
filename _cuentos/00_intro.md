@@ -44,4 +44,3 @@ Otro Fran Baxter lo miró fijamente, en silencio. Fran Baxter sintió que de de 
 > ni tomándome toda mi cantina.
   
 —Güey —dijo finalmente Otro Fran Baxter—: necesitamos quemar la casa.
-B
