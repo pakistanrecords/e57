@@ -22,7 +22,7 @@ por: {{ page.author }} / @jarxg
 
 ## Materiales
 
-{% for item in site.materiales %}<a href="{{ item.url }}">{{ item.title }}</a><br>{% endfor %}
+{% for item in site.materiales %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a><br>{% endfor %}
 
 ---
 
