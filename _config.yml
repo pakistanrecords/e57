@@ -1,17 +1,4 @@
 title: Express 57
-email: jarg1985@gmail.com
-description: Un libro de cuentos open source
-twitter_username: jarxg
-github_username:  jarxg
-
-url: "https://jarxg.github.io/e57/"
-
-markdown: kramdown
-
-plugins:
-- jekyll-mentions
-
-jekyll-mentions: https://twitter.com
 
 collections:
   cuentos:
