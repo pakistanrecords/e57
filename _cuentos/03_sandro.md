@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: text
 title: Las sombras de Sandro
 
 ---

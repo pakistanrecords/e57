@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: text
 title: Express 57
 author: Jorge Rangel
 

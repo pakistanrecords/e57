@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: text
 title: Ni comiéndome a besos mil amantes (Intro)
 
 ---

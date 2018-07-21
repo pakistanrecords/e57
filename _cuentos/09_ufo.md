@@ -1,6 +1,6 @@
 ---
 
-layout: default
+layout: text
 title: Hay un UFO en mi trago
 
 ---
