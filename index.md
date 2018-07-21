@@ -6,6 +6,8 @@ author: Jorge Rangel
 
 ---
 
+{{ site.url }}
+
 # {{ site.title }}
 
 *{{ site.description }}*
@@ -16,7 +18,7 @@ por: {{ page.author }} / @jarxg
 
 ## Cuentos
 
-{% for item in site.cuentos %}<a href="{{ item.url }}">{{ item.title }}</a><br>{% endfor %}
+{% for item in site.cuentos %}<a href="{{ site.url }}/{{ item.url }}">{{ item.title }}</a><br>{% endfor %}
 
 ---
 
