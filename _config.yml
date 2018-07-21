@@ -1,7 +1,8 @@
 title: Express 57
 description: Un libro de cuentos open source
 
-baseurl: e57
+url: https://jarxg.github.io/
+baseurl: /e57/
 
 collections:
   cuentos:

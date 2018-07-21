@@ -6,8 +6,6 @@ author: Jorge Rangel
 
 ---
 
-{{ site.baseurl }}
-
 # {{ site.title }}
 
 *{{ site.description }}*
