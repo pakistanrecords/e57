@@ -4,6 +4,9 @@ description: Un libro de cuentos open source
 twitter_username: jarxg
 github_username:  jarxg
 
+url: https://jarxg.github.io
+baseurl: "/e57"
+
 markdown: kramdown
 
 plugins:
