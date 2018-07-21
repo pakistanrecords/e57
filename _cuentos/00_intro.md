@@ -1,7 +1,7 @@
 ---
 
 layout: text
-title: Ni comiéndome a besos mil amantes (Intro)
+title: Ni comiéndome a besos mil amantes
 
 ---
 
@@ -38,9 +38,9 @@ Maricela regresó con una carta para Fran Baxter y una botella de sotol y un cab
 Otro Fran Baxter levantó el caballito y lo miró a contraluz ante un foco amarillento sobre la pared. Lo olió, aspirando profundamente. Finalmente le dio un pequeño trago que saboreó durante unos segundos que a Fran Baxter le parecieron insoportables.  
 —Está pocamadre el sotol.  
 —¿A qué viniste, cabrón? —contestó Fran Baxter—. Ya no le des tantas pinches vueltas.  
-Otro Fran Baxter lo miró fijamente, en silencio. Fran Baxter sintió que de de pronto se había puesto muy serio. Cesáreo estaba terminando la canción:
+Otro Fran Baxter lo miró fijamente. De pronto se había puesto muy serio y eso puso en alerta a Fran Baxter.
 
-> Ni comiéndome a besos mil amantes  
+> ...ni comiéndome a besos mil amantes  
 > ni tomándome toda mi cantina.
   
 —Güey —dijo finalmente Otro Fran Baxter—: necesitamos quemar la casa.
