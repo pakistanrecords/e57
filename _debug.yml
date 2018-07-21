@@ -1,0 +1,12 @@
+title: Express 57 [DEBUG]
+description: Un libro de cuentos open source
+
+url: http://127.0.0.1:4000
+
+debug: true
+
+collections:
+  cuentos:
+    output: true
+  materiales:
+    output: true

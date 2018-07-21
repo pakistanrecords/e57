@@ -1,7 +1,12 @@
 ---
 
 layout: text
-title: Ni comiéndome a besos mil amantes
+title: Ni comiéndome a besos mil amantes...
+author: Jorge Rangel
+status: 2do borrador, en proceso
+pov: Fran Baxter
+year: 2001
+synopsis: Fran Baxter bebe una cerveza en una cantina de la zona de tolerancia de Sabinas. Sostiene una plática consigo mismo. El Otro Fran Baxter convence a Fran Baxter de ir a la antigua casa de Pakistán Records y prenderle fuego.
 
 ---
 
@@ -29,18 +34,16 @@ La muchacha no dijo nada y volteó a ver a Fran Baxter, quien asintió con la ca
 —En que no soy una persona normal porque estudié en el extranjero.  
 —Ya, sí —contestó Otro Fran Baxter sacando un cigarro del bolsillo de su camisa vaquera—. ¿Tienes encendedor?  
 —Ya no fumo.  
-—Lástima —dijo Fran Baxter poniéndose el cigarro tras la oreja—, ahorita le pedimos uno a Maricelita.  
-Fran Baxter guardó silencio.  
-—Pero bueno —dijo Otro Fran Baxter—, Libertas Profundet Omnias Luce. Y si todavía lo dudas mira qué fino establecimiento tienes a tu nombre.  
+—Lástima —dijo Otro Fran Baxter poniéndose el cigarro tras la oreja—, ahorita le pedimos uno a Maricelita. Pero bueno, te decía: Libertas Profundet Omnias Luce. Y si todavía lo dudas mira qué fino establecimiento tienes a tu nombre.  
 Maricela regresó con una carta para Fran Baxter y una botella de sotol y un caballito para Otro Fran Baxter. Abrió la botella de carta y luego le llenó el caballito a Otro Fran Baxter.  
 —Gracias, Maricela —dijo Otro Fran Baxter, olvidando que le iba a pedir un encendedor.  
 —Es un placer, señor —contestó ella.  
-Otro Fran Baxter levantó el caballito y lo miró a contraluz ante un foco amarillento sobre la pared. Lo olió, aspirando profundamente. Finalmente le dio un pequeño trago que saboreó durante unos segundos que a Fran Baxter le parecieron insoportables.  
+Otro Fran Baxter levantó el caballito y lo miró a contraluz ante un foco amarillento sobre la pared. Lo olió, aspirando profundamente, de una forma casi obscena. Finalmente le dio un pequeño trago que saboreó durante unos segundos que a Fran Baxter, el "original", le parecieron insoportables.  
 —Está pocamadre el sotol.  
 —¿A qué viniste, cabrón? —contestó Fran Baxter—. Ya no le des tantas pinches vueltas.  
-Otro Fran Baxter lo miró fijamente. De pronto se había puesto muy serio y eso puso en alerta a Fran Baxter.
+Otro Fran Baxter lo miró mientras saboreaba otro traguito del sotol.
 
 > ...ni comiéndome a besos mil amantes  
 > ni tomándome toda mi cantina.
   
-—Güey —dijo finalmente Otro Fran Baxter—: necesitamos quemar la casa.
+—Carnal —dijo finalmente Otro Fran Baxter—: necesitas quemar la casa.

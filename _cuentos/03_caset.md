@@ -1,13 +1,9 @@
 ---
 
 layout: text
-title: Acerca de...
+title: El caset
 status: falta escribir
 
 ---
 
 # {{ page.title }}
-
-## ...Pakistán Records
-
-## ...Express 57

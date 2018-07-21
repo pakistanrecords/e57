@@ -7,36 +7,19 @@ title: Outline
 
 # {{ page.title }}
 
-<!-- MarkdownTOC -->
+**ESPOILERS**
 
-- Intro
-- Los Nebulosos Darwins – Un dos tres por mí y por mis nuevos amigos
-- El caset
-- Sandro's Shades
-- Wanking for Dummies
-- Grand Theft Mic
-- Behind the Scenes
-- Los Turistas de Calcetín Blanco – Furry Jam
-- alex
-- Cáspita y Los Atónitos – There is a UFO hanging over my drink
-- Radio Tajo
-- Las Bulbas – Wah Tool, Co.
-- Outro
-- Bonus tracks
-	- Discografía
-	- Escenas eliminadas
-
-<!-- /MarkdownTOC -->
+Esta página ofrece sinopsis de cada uno de los cuentos.
 
 ---
 
-## Intro
+## Ni comiéndome a besos mil amantes
 
 **POV**: Fran Baxter
 
 **Año**: 2001
 
-**Sinopsis**: Fran Baxter bebe una cerveza en una cantina de la zona de tolerancia de Sabinas. Sostiene una plática consigo mismo mientras comen cacahuates. El Otro Fran Baxter convence a Fran Baxter de ir a la antigua casa de Pakistán Records y prenderle fuego.
+**Sinopsis**: Fran Baxter bebe una cerveza en una cantina de la zona de tolerancia de Sabinas. Sostiene una plática consigo mismo. El Otro Fran Baxter convence a Fran Baxter de ir a la antigua casa de Pakistán Records y prenderle fuego.
 
 ---
 
@@ -152,7 +135,7 @@ Diversas notas al pie del texto recogen las impresiones de los realizadores año
 
 ---
 
-## Outro
+## ...ni tomándome toda mi cantina
 
 **POV**: Fran Baxter
 

@@ -121,7 +121,7 @@ El primer disco que se grabó en los estudios de Pakistán Records. Originalment
 
 ### Notas
 
-La producción de este álbum fue muy accidentada: empezó como un dueto bohemio conformado por Alejandra Casandra y Fran Baxter desde antes que se fundara la disquera. Eventualmente se convirtió en un proyecto de dream pop bastante complejo que involucró en un momento u otro a casi todo el rúster de Pakistán Records. Kinki Näive fue uno de los discos más exitosos de Pakistán Records. Desafortunadamente fue el único disco de Cáspita y Los Atónitos, algo que probablemente tenga algo que ver con lo tormentosa que fue la relación personal y profesional de Alejandra Casandra y Fran Baxter.
+La producción de este álbum fue muy accidentada: empezó como un dueto bohemio conformado por Alejandra Casandra y Fran Baxter desde antes que se fundara la disquera. Eventualmente se convirtió en un proyecto de dream pop bastante complejo que involucró en un momento u otro a casi todo el rúster de Pakistán Records. *Kinki Näive* fue uno de los discos más exitosos de Pakistán Records. Desafortunadamente fue el único disco de Cáspita y Los Atónitos, algo que probablemente tenga algo que ver con lo tormentosa que fue la relación personal y profesional de Alejandra Casandra y Fran Baxter.
 
 ---
 
