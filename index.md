@@ -18,7 +18,7 @@ por: {{ page.author }} / @jarxg
 
 ## Cuentos
 
-{% for item in site.cuentos %}<a href="{{ site.baseurl }}/{{ item.url }}">{{ item.title }}</a><br>{% endfor %}
+{% for item in site.cuentos %}<a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a><br>{% endfor %}
 
 ---
 
