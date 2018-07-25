@@ -12,7 +12,7 @@ synopsis: Fran Baxter bebe una cerveza en una cantina de la zona de tolerancia d
 
 # {{ page.title }}
 
-Fran Baxter estaba sentado en un rincón de su cantina en la zona de tolerancia de Sabinas. Estaba casi sola: era martes, cinco de la mañana. En la cantina sólo estaban él, Maricela la mesera, Luis el cantinero, Pequitas la puta y Goyito el puto: lo más parecido a una familia que le quedaba a Fran Baxter el patrón, Fran Baxter el artista sonoro menos rentable del ejido, Fran Baxter nobody-not-anymore, Fran Baxter el productor fracasado.  
+Fran Baxter estaba sentado en un rincón de su cantina en la zona de tolerancia de Sabinas. No había clientes: era martes, cinco de la mañana. En la cantina sólo estaban él, Maricela la mesera, Luis el cantinero, Pequitas la puta y Goyito el puto: lo más parecido a una familia que le quedaba a Fran Baxter el patrón, Fran Baxter el artista sonoro menos rentable del ejido, Fran Baxter nobody-not-anymore, Fran Baxter el productor fracasado.  
 —Ya van a cerrar, güey —le dijo una voz vagamente conocida. Levantó la mirada y se encontró con un rostro muy familiar: el suyo. Hacía años que Fran Baxter no se encontraba con Otro Fran Baxter y la neta es que no lo extrañaba ni madres.  
 —Aquí cierran cuando yo digo —contestó Fran Baxter. Otro Fran Baxter se le quedó mirando. "¿Me vas a invitar a tomar una chela contigo o nel?", parecía preguntar. Fran Baxter lo miró sin molestarse en mover más que la mirada. Le dio un trago a la botella de Carta Blanca y le hizo una señal con los ojos a Otro Fran Baxter de que se sentara.  
 —Gracias —dijo Otro Fran Baxter quitándose el sombrero y poniéndolo sobre la mesa; se sentó y muy sonriente miró a su alrededor—. Todo un empresario. Quién te viera.  
@@ -57,4 +57,13 @@ Fran Baxter le dio un trago a su cerveza.
 
 ***
 
+—Ahí les encargo el changarro —le dijo Fran Baxter a sus empleados.  
+—No se apure patrón —contestó Goyito—. Aunque déjeme decirle que yo sí me apuro: este tipo con el que se va no tiene buena pinta. Una corazónada, nomás.  
+—No te apures, me sé cuidar.  
+—A mí también me da miedo —dijo Maricela.  
+—No dije que me diera miedo —contestó Goyito.  
+—Tiene cara de malo —dijo Luis.  
+—Tiene cara de hijo de la chingada —agregó Pequitas.  
+—No se queden mucho más —dijo Fran Baxter; le dio el último trago a la carta blanca y puso la botella sobre la mesa—. Vayan a dormir un rato. ¿Subiste a la troca la yelera que te pedí, Goyito?  
+—Sí, patrón.  
 Otro Fran Baxter traía mueble: una Ford F-100 del cincuenta y córrele, blanca, cuidadísima. "Muy bonita", pensó Fran Baxter, "pero qué hueva la dirección mecánica".  

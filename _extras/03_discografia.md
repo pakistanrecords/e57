@@ -16,7 +16,7 @@ por {{ page.author }}
 
 ---
 
-## Las Bulbas – Las Bulbas EP (1994)
+## Las Bulbas – Las Bulbas EP
 
 ### Créditos
 

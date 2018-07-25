@@ -13,6 +13,10 @@ author: Jorge Rangel
 
 por: {{ page.author }}
 
+Hola. Esta es la página donde compartiré el proceso de escritura de un libro de cuentos en el que de alguna u otra forma he estado trabajando durante años. Los cuentos siguen la peripecias de un grupo de músicos y artistas de diversa índole que un buen día decidieron que era buena idea fundar una disquera en medio del desierto coahuilense: Pakistán Records. Otros cuentos no hablan directamente de la disquera pero se relacionan íntimamente con ella.  
+
+Quiero aclarar que este sitio NO es el libro, sino una ventana a mi proceso de escritura. Mi intención es eventualmente publicar este libro de manera más "tradicional", guarever dat mins.
+
 ---
 
 ## Cuentos
