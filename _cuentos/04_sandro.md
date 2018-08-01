@@ -9,8 +9,6 @@ synopsis: Durante los preparativos de la presentación de Pakistán Records, El 
 
 ---
 
-# {{ page.title }}
-
 ––Pregúntale a este pinche gringo que qué pedo con esas pinches llantas, se ven culerísimas ––said the man in the boots, white suit, Poncharello shades and cowboy hat, Sandro de Amecameca, when we arrived at the house in Sabinas where for some mysterious reason we were about to play a small gig for a few young people from the Partido Revolucionario Institucional as part of Pakistán's debut. His assistant, a diminutive man whose name I just can’t remember turned to me and somewhat translated his words, ignorant to the fact that I know my share of colorful and rustic north-eastern Mexican Spanish. Northern Gothic.  
 ––Mr. Sandro would like me to inquire you regarding the nature of the venue’s decoration ––he said, pointing at the tires hanging on the wall of the parking lot. I didn’t answer.  
 I glanced to the other side of the parking lot (“the venue”) and saw don Tito blahbling with the Dueto Valle Zar about that which don Tito and the Dueto Valle Zar could blahble about. The Dueto were the most professional people I ever worked with during my time at Pakistán Records. For some reason Don Tito (or was it don Tito? I never knew) didn’t want to produce their records, so it was me (assisted by Fran, of course) pulling the faders and pushing the buttons at their sessions. We had their first song ready to mix in less than thirty minutes. And we are talking about some old guys who used to play on buses during the day and bounced from cantina to congal to cantina at night.  

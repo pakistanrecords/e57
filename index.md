@@ -7,8 +7,6 @@ author: Jorge Rangel
 
 ---
 
-# {{ page.title }}
-
 *{{ page.description }}*
 
 por: {{ page.author }}

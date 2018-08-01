@@ -9,4 +9,3 @@ synopsis: Alejandra observa a los asistentes a la fiesta priísta / presentació
 
 ---
 
-# {{ page.title }}

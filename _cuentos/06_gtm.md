@@ -9,8 +9,6 @@ synopsis: Fran Baxter vende un taller de experimentación musical al Museo Bibli
 
 ---
 
-# {{ page.title }}
-
 (*En esta versión más bien vieja todavía aparece Bobo Lafragua. En siguientes versiones este personaje será suprimido y en su lugar estará Alejandra Cassandra, entre otros cambios. La base seguirá siendo la misma: Fran Baxter llega al Museo Pape para ofrecer un taller / expo y acaba robando equipo que será de utilidad para Pakistán Records.*)
 
 —Bienvenidos al Museo Pape —los recibió por sorpresa una adolescente con cara de absoluta antipatía, probablemente haciendo servicio social para graduarse de la prepa. Tenía un gafet que decía “Montserrat” y no mucho más.  

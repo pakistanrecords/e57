@@ -9,4 +9,3 @@ synopsis: Una tromba en Sabinas obliga a cancelar una tocada donde se iban a pre
 
 ---
 
-# {{ page.title }}
