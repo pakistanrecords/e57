@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: ...ni tomándome toda mi cantina
 status: 1er borrador en proceso, falta transcribir
 pov: Fran Baxter

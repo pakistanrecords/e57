@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: Grand Theft Mic
 status: 1er borrador / 2do borrador en proceso, falta transcribir
 pov: Fran Baxter

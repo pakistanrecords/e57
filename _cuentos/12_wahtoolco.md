@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: Wah Tool, Co.
 status: falta escribir
 pov: Cherry Bomb

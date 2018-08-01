@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: Wanking for Dummies
 status: 1er borrador en proceso, falta transcribir
 pov: Sergio

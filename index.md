@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: Express 57
 description: Un libro de cuentos open-source acerca de Pakistán Records
 author: Jorge Rangel

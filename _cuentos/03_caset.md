@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: El caset
 status: falta escribir
 pov: Rob González

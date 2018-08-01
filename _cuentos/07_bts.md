@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: Behind the Scenes
 status: 1er borrador en proceso, falta transcribir
 pov: Fernanda Weber

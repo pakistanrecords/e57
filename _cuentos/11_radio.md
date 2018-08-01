@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: Radio Tajo
 status: 2do borrador en proceso, falta transcribir
 pov: J. R.

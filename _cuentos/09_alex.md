@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: alex
 status: 1er borrador en proceso, falta transcribir
 pov: Cámara / Equipo de producción de *alex*

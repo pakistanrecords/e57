@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: (Furry) Jams
 status: falta escribir
 pov: Larissa Double-Coil

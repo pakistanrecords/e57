@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: Discografía de Pakistán Records
 author: Jorge Rangel
 

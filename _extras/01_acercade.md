@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: Acerca de...
 status: falta escribir
 

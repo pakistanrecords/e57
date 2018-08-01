@@ -1,6 +1,6 @@
 ---
 
-layout: text
+layout: default
 title: Las sombras de Sandro
 status: 1er borrador en proceso
 pov: El Vikingo
