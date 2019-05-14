@@ -9,6 +9,8 @@ synopsis: Fran Baxter bebe una cerveza en una cantina de la zona de tolerancia d
 
 ---
 
+# {{ page.title }}
+
 Fran Baxter estaba sentado en un rincón de su cantina en la zona de tolerancia de Sabinas. No había clientes: era martes, cinco de la mañana. En la cantina sólo estaban él, Maricela la mesera, Luis el cantinero, Pequitas la puta y Goyito el puto: lo más parecido a una familia que le quedaba a Fran Baxter el patrón, Fran Baxter el artista sonoro menos rentable del ejido, Fran Baxter nobody-not-anymore, Fran Baxter el productor fracasado.  
 Sobre la mesa tenía una carta, un platito con cacahuates y una copia de *Se está haciendo tarde*. En la rocola sonaban los Cardenales. Alguien, a lo mejor Luis, había puesto un disco completo. Quince éxitos de oro. Veinte trancazos norteños. Algo así. A Fran Baxter le gustaba y cantaba sin vocalizar.  
 Pequitas se acercó a la mesa y se sentó frente a Fran Baxter quien se le quedó mirando en espera del reclamo, la queja, lo que fuera que hacía a Pequitas poner esa cara de "pinche Fran Baxter puñetas" a la que tan acostumbrado estaba el fundador de la muerta, velada y sepultada Pakistán Records.  

@@ -10,3 +10,4 @@ synopsis: Fran Baxter ve arder la casona de Pakistán Records
 
 ---
 
+{{ page.title }}
